@@ -29,7 +29,6 @@
 		{"agg_profile_id": 1,
 		 "total_fee":2000,
 		 "total_principal":200000
-		},
-		
-	]	
+		}
+	]
 }
